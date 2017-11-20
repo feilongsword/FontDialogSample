@@ -1,0 +1,11 @@
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\bin\Debug\WFTest.exe.config
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\bin\Debug\WFTest.exe
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\bin\Debug\WFTest.pdb
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\bin\Debug\FontDialogSample.pdb
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\obj\Debug\WFTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\obj\Debug\WFTest.Form1.resources
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\obj\Debug\WFTest.Properties.Resources.resources
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\obj\Debug\WFTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\obj\Debug\WFTest.exe
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\obj\Debug\WFTest.pdb
+C:\Users\Administrator\Downloads\FontDialogSample\WFTest\bin\Debug\FontDialogSample.dll
